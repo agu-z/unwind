@@ -1,0 +1,7 @@
+id = "unwind"
+name = "Unwind"
+version = "0.1.0"
+schema_version = 1
+authors = ["Agus Zubiaga <hi@aguz.me>"]
+description = "A calm, toned-down theme for the joy of coding."
+repository = "https://github.com/agu-z/unwind"
