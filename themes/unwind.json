@@ -215,7 +215,7 @@
             "font_weight": 400
           },
           "constructor": {
-            "color": "#c4bfb6",
+            "color": "#aebdc7",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -235,7 +235,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#c4bfb6",
+            "color": "#aebdc7",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -385,7 +385,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#c4bfb6",
+            "color": "#aebdc7",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -405,7 +405,7 @@
             "font_weight": 400
           },
           "variant": {
-            "color": "#c4bfb6",
+            "color": "#aebdc7",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -632,7 +632,7 @@
             "font_weight": 400
           },
           "constructor": {
-            "color": "#45413b",
+            "color": "#384e60",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -652,7 +652,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#45413b",
+            "color": "#384e60",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -802,7 +802,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#45413b",
+            "color": "#384e60",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -822,7 +822,7 @@
             "font_weight": 400
           },
           "variant": {
-            "color": "#45413b",
+            "color": "#384e60",
             "font_style": "normal",
             "font_weight": 400
           },
